@@ -64,7 +64,7 @@
 <div align="left">
   <h5>👾 Hacking/Reverse Engineering 👾</h5>
   <img src="https://img.shields.io/badge/ghidra-3670A0?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/aida-ffca28?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/ida-ffca28?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/pwntools-11557c.svg?style=for-the-badge" />&nbsp
 </div>
 
