@@ -4,13 +4,12 @@
 
 </div>
 
-<div align="center">
+### 📊 Overall 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmchun00&layout=compact)
 
-</div>
 
-<h3 align="center">📚 Education 📚</h3>
+### 📚 Education 📚
 
 <center>
 
@@ -26,10 +25,10 @@
 
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+### ✨ Tech Stack ✨
 
 
-<div align="center">
+<div align="left">
   <h5>🖥️ Aplications 🖥️</h5>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -38,7 +37,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/kotlin-7f52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479a1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169e1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
@@ -54,7 +53,7 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django#%2B%2B&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
   <h5>📊 Data/AI 📊</h5>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -63,17 +62,18 @@
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">&nbsp
 </div>
 
-<div align="center">
+<div align="left">
   <h5>👾 Hacking/Reverse Engineering 👾</h5>
   <img src="https://img.shields.io/badge/ghidra-3670A0?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/aida-ffca28?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/pwntools-11557c.svg?style=for-the-badge" />&nbsp
 </div>
 
-<div align="center">
+<div align="left">
   <h5>⚙️ Embedded ⚙️</h5>
   <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&&logo=raspberrypi&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&&logo=arduino&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/esp32-000000?style=for-the-badge&&logo=esphome&logoColor=white">&nbsp
 </div>
 <br>
+
