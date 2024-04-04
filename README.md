@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmchun00&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmchun00)](https://solved.ac/bmchun00)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmchun00)](https://solved.ac/bmchun00)
 
 
 ### 📚 Education 📚
