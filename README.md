@@ -66,6 +66,8 @@
   <img src="https://img.shields.io/badge/ghidra-3670A0?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/ida-ffca28?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/pwntools-11557c.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/windbg-293819.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/pwndbg-891999.svg?style=for-the-badge" />&nbsp
 </div>
 
 <div align="left">
