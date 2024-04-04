@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&&logo=raspberrypi&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&&logo=arduino&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/esp32-000000?style=for-the-badge&&logo=esphome&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/arm-0091BD?style=for-the-badge&&logo=arm&logoColor=white">&nbsp
 </div>
 <br>
 
